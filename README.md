@@ -15,3 +15,9 @@ the application tekes the video link , downloads the video on the server , uploa
   * install requerments using ` pip install -r requirments.txt `
   * clone the repo `git clone https://github.com/mohammadteeti/Qabasat.git `
   * navigate to the project directory and run server `python manage.py runserver `
+  
+  
+ #video
+ 
+https://user-images.githubusercontent.com/37085987/218833075-041742d8-9948-48fb-aaef-a215e3a36102.mp4
+
