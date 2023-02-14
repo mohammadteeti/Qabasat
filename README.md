@@ -9,6 +9,7 @@ the application tekes the video link , downloads the video on the server , uploa
   * pytube library for downloading from yutube
   * requests library for managing Http operations
   * facebook page linked to a facebook dev app using page access token
+  * you will need to add your __page access token__ in the file  `credentials.json ` thats found in __VideoPost Folder__
 ## Installation 
   * set django environmet 
   * install requerments using ` pip install -r requirments.txt `
