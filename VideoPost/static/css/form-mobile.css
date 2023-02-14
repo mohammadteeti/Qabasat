@@ -1,0 +1,85 @@
+body{
+    background-color: antiquewhite;
+    padding: 80px;
+}
+.messages{
+ margin: auto;
+ display: block;
+ width:710px;
+ max-width: 710px;
+ max-height: 50px;
+ background-color: beige;
+}
+
+.message-section{
+    margin: auto;
+}
+.message{
+    color: blueviolet;
+    font-weight: bolder;
+    box-shadow: -3px -3px 5px 2px rgb(54, 16, 90);
+}
+.input-form{
+    margin:auto;
+    width: 705px;
+    max-width:705px;
+    max-height: 50px;
+    padding: 10px;
+    margin-top: 100px;
+    display: block;
+}
+
+.link-input{
+    width: 500px;
+    max-width: 500px;
+    height: 30px;
+    background-color: wheat;
+    color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+  
+    
+
+}
+.input-section{
+    text-align: center;
+}
+.link-input::placeholder{
+    text-align: center;
+
+
+}
+
+.label{
+    width: fit-content;
+    height: 30px;
+    background-color: wheat;
+    font-weight: bold;
+    color: blue;
+    
+
+}
+
+.submit{
+    text-align: center;
+    margin-top: 20px;
+}
+
+form input[type="submit"]{
+    box-shadow: 3px 3px 1px 2px rgb(94, 12, 172);
+    width: 150px;
+    max-width: 150px;
+    height: 50px;
+    background-color: rgb(131, 78, 182);
+    color: azure;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+footer .browser{
+    text-align: center;
+     margin-top: 90%;
+     font-weight: bolder;
+     margin-left: 20%;
+     display: block;
+ }
